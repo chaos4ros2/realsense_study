@@ -52,7 +52,7 @@ ros2 run nav2_map_server map_saver -f ~/map
 
 次に`map.pgm`を開いて内容を確認します。以下は`RealSense™` と`cartographer`で構築したマップとなる。
 
-![Untitled](navigation2%200417880572f2428ea36f130adad3a173/Untitled.png)
+![map](png/map.png)
 
 ## **3. Navigation with RealSense™**
 
